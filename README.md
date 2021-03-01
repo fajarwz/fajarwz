@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 -->
 
 [![fajarwz's github stats](https://github-readme-stats.vercel.app/api?username=fajarwz&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+### 👋 Hi, I'm Fajar Windhu Zulfikar (@fajarwz) and i'm a Web Developer
+
+Highly passionate in web programming and love to learn.
+
+Currently my Tech Stack is:
+- PHP Laravel
+- Bootstrap
+- MySQL
+
+Happy to discuss about web development..
