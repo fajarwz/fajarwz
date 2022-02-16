@@ -19,15 +19,6 @@ Here are some ideas to get you started:
 
 🔥 Highly passionate in web programming and ❤️ love to 📚 learn.
 
-👨‍💻 Currently my Tech Stack is:
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Laravel
-- Vue
-- Bootstrap
-- MySQL
+👨‍💻 Currently my Tech Stack is HTML, CSS, SASS, JavaScript, PHP, Laravel, Vue, Nuxt, Livewire, TailwindCSS, Alpine.js, Bootstrap, MySQL, Git, TALL Stack, Flutter, with Laravel as my main stack currently.
 
 😃 Happy to discuss about web development..
