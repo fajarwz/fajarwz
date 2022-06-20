@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - 🔥 Highly passionate in web programming and ❤️ love to 📚 learn.
 - 👨‍💻 Currently my Tech Stack is HTML, CSS, SASS, JavaScript, React, PHP, Laravel, TailwindCSS, Bootstrap, MySQL, with Laravel as my main stack currently.
-- 🌱 Currently learning React, NuxtJS
+- 🌱 Currently learning React, Next.js
 - 😃 Happy to discuss about web development..
 - 📫 How to reach me: https://t.me/fajarwz
