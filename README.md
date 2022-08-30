@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## 👋 Hi, I'm Fajar Windhu Zulfikar (@fajarwz) and i'm a Web Developer
 
 - 🔥 Highly passionate in web programming and ❤️ love to 📚 learn.
-- 👨‍💻 Currently my Tech Stack is HTML, CSS, SASS, JavaScript, React, PHP, Laravel, TailwindCSS, Bootstrap, MySQL, with Laravel as my main stack currently.
-- 🌱 Currently learning React, Next.js
+- 👨‍💻 Currently my Tech Stack is HTML, CSS, SASS, JavaScript, React, Next.js, PHP, Laravel, Go, Hugo, TailwindCSS, Bootstrap, MySQL, with Laravel as my main stack currently.
 - 😃 Happy to discuss about web development..
 - 📫 How to reach me: https://t.me/fajarwz
