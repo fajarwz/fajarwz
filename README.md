@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ## 💻 About Me
 - 🔥 Highly passionate in web programming and ❤️ love to 📚 explore new things.
 - 👨‍💻 Front End Stack: HTML, CSS, SASS, JavaScript, React, Next.js, TailwindCSS, Bootstrap, Hugo.
-- 🖥️ Back End Stack: PHP, Laravel, Go, JavaScript, Hapi, MySQL, PostgreSQL with Laravel as my main stack currently.
+- 🖥️ Back End Stack: PHP, Laravel, Go, JavaScript, Hapi, with Laravel as my most used stack currently.
+- 💾 Database Stack: MySQL, PostgreSQL with MySQL as my most used stack currently.
 - 😃 Happy to discuss about web development..
 - 📫 How to reach me: DM via LinkedIn https://linkedin.com/in/fajarwz
 
