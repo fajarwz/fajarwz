@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Fajar Windhu Zulfikar (@fajarwz), A Web Developer
 
 ## 💻 About Me
-- 🔥 Highly passionate in web programming and ❤️ love to 📚 learn.
-- 👨‍💻 Currently my Tech Stack is HTML, CSS, SASS, JavaScript, React, Next.js, PHP, Laravel, Go, Hugo, TailwindCSS, Bootstrap, MySQL, with Laravel as my main stack currently.
+- 🔥 Highly passionate in web programming and ❤️ love to 📚 explore new things.
+- 👨‍💻 Front End Stack: HTML, CSS, SASS, JavaScript, React, Next.js, TailwindCSS, Bootstrap, Hugo.
+- 🖥️ Back End Stack: PHP, Laravel, Go, JavaScript, Hapi, MySQL, PostgreSQL with Laravel as my main stack currently.
 - 😃 Happy to discuss about web development..
-- 📫 How to reach me: https://t.me/fajarwz
+- 📫 How to reach me: DM via LinkedIn https://linkedin.com/in/fajarwz
 
 ## 💼 Career
 I'm currently working full-time remotely as a Software Engineer (Backend) at [Suitmedia](suitmedia.com). I am building web application using PHP-Laravel.
