@@ -28,4 +28,8 @@ Here are some ideas to get you started:
 ## 💼 Career
 I'm currently working full-time remotely as a Software Engineer (Backend) at [Suitmedia](suitmedia.com). I am building web application using PHP-Laravel.
 
+## 🔖 Products
+- [PROMO] Belajar jadi Full Stack Laravel Web Developer, buat web forum dari awal sampai hosting:
+[fajarwz.com/laracuss](fajarwz.com/laracuss)
+
 ![](https://komarev.com/ghpvc/?username=fajarwz)
