@@ -29,7 +29,13 @@ Here are some ideas to get you started:
 I'm currently working full-time remotely as a Software Engineer (Backend) at [Suitmedia](suitmedia.com). I am building web application using PHP-Laravel.
 
 ## 🔖 Products
-- [PROMO] Belajar jadi Full Stack Laravel Web Developer, buat web forum dari awal sampai hosting:
+- Paid web development tutorial in Indonesia | [PROMO] Belajar jadi Full Stack Laravel Web Developer, buat web forum dari awal sampai hosting:
 [fajarwz.com/laracuss](fajarwz.com/laracuss)
+- Blog, free web development tutorials in English:
+[fajarwz.com/blog](fajarwz.com/blog)
+- Open Source Hugo SSG template:
+[Mayhugo](https://github.com/fajarwz/mayhugo)
+- Open Source IT Ticketing App:
+[Iket](https://github.com/fajarwz/iket)
 
 ![](https://komarev.com/ghpvc/?username=fajarwz)
