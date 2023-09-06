@@ -38,4 +38,6 @@ I'm currently working full-time remotely as a Software Engineer (Backend) at [Su
 - Open Source IT Ticketing App:
 [Iket](https://github.com/fajarwz/iket)
 
+I'm not very active on GitHub, I code on private repo on Gitlab more often.
+
 ![](https://komarev.com/ghpvc/?username=fajarwz)
