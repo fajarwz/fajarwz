@@ -1,0 +1,20 @@
+name: Generate Recent Blog Posts
+
+on:
+  schedule: 
+    - cron: '0 * * * *' 
+  workflow_dispatch: 
+permissions:
+  contents: write 
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in fajarwz.com posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://fajarwz.com/index.xml"

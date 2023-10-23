@@ -38,6 +38,10 @@ I'm currently working full-time remotely as a Software Engineer (Backend) at [Su
 - Open Source IT Ticketing App:
 [Iket](https://github.com/fajarwz/iket)
 
+## 📚 Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📫 Social Media
 - LinkedIn: [linkedin.com/in/fajarwz](https://www.linkedin.com/in/fajarwz)
 - Website: [fajarwz.com](https://fajarwz.com)
