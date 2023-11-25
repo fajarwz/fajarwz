@@ -45,6 +45,7 @@ I'm currently working full-time remotely as a Software Engineer (Backend) at [Su
 ## 📫 Social Media
 - LinkedIn: [linkedin.com/in/fajarwz](https://www.linkedin.com/in/fajarwz)
 - Website: [fajarwz.com](https://fajarwz.com)
+- LeetCode: [leetcode.com/fajarwz](https://leetcode.com/fajarwz/)
 - Stackoverflow: [fajar wz](https://stackoverflow.com/users/19457054/fajar-wz)
 - I also code on Gitlab: [gitlab.com/fajarwz](https://gitlab.com/fajarwz)
 
