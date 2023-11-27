@@ -40,6 +40,11 @@ I'm currently working full-time remotely as a Software Engineer (Backend) at [Su
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Real-Time with WebSockets in Laravel with Soketi](https://fajarwz.com/blog/unlocking-real-time-with-websockets-in-laravel-with-soketi/)
+- [Sending SMS in Laravel Using Twilio: A Step-by-Step Tutorial](https://fajarwz.com/blog/sending-sms-in-laravel-using-twilio-a-step-by-step-tutorial/)
+- [Improving App Quality: Exploring Browser Testing with Laravel Dusk](https://fajarwz.com/blog/improving-app-quality-exploring-browser-testing-with-laravel-dusk/)
+- [What is Test-Driven Development &lpar;TDD&rpar;](https://fajarwz.com/blog/what-is-test-driven-development-tdd/)
+- [Easily Send Emails in Laravel with Brevo](https://fajarwz.com/blog/easily-send-emails-in-laravel-with-brevo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Social Media
