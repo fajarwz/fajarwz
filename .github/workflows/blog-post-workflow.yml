@@ -2,7 +2,7 @@ name: Generate Recent Blog Posts
 
 on:
   schedule: 
-    - cron: '0 * * * *' 
+    - cron: '0 0-23/6 * * *' 
   workflow_dispatch: 
 permissions:
   contents: write 
