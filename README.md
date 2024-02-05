@@ -31,7 +31,7 @@ I'm currently working full-time remotely as a Software Engineer (Backend) at [Su
 ## 🔖 Products
 - Paid web development tutorial in Indonesia | [PROMO] Belajar jadi Full Stack Laravel Web Developer, buat web forum dari awal sampai hosting:
 [fajarwz.com/laracuss](https://fajarwz.com/laracuss)
-- Blog, free web development tutorials in English:
+- Blog, free web development tutorials in English, 4K+ views per month:
 [fajarwz.com/blog](https://fajarwz.com/blog)
 - Open Source Hugo SSG template:
 [Mayhugo](https://github.com/fajarwz/mayhugo)
