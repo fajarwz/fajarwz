@@ -40,11 +40,11 @@ I'm currently working full-time remotely as a Software Engineer (Backend) at [Su
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Email Authentication and Verification in Next.js 14 With Next Auth and Prisma](https://fajarwz.com/blog/email-authentication-and-verification-in-nextjs-14-with-next-auth-and-prisma/)
 - [Laravel Database Transaction for Data Consistency](https://fajarwz.com/blog/laravel-database-transaction-for-data-consistency/)
 - [Simple Full-Stack CRUD with Next.js 14, PostgreSQL, and Prisma](https://fajarwz.com/blog/simple-full-stack-crud-with-nextjs-14-postgresql-and-prisma/)
 - [Pagination in React Made Simple with react-paginate](https://fajarwz.com/blog/pagination-in-react-made-simple-with-react-paginate/)
 - [You Might Not Need Else Statement](https://fajarwz.com/blog/you-might-not-need-else-statement/)
-- [Unlocking Real-Time with WebSockets in Laravel with Soketi](https://fajarwz.com/blog/unlocking-real-time-with-websockets-in-laravel-with-soketi/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Social Media
