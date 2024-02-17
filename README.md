@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 ## 💻 About Me
 - 🔥 Highly passionate in web programming and ❤️ love to 📚 explore new things.
 - 👨‍💻 Front End Stack: HTML, CSS, SASS, JavaScript, React, Next.js, TailwindCSS, Bootstrap, Hugo.
-- 🖥️ Back End Stack: PHP, Laravel, Go, JavaScript, Hapi, with Laravel as my most used stack currently.
+- 🖥️ Back End Stack: PHP, Laravel, Node.js, Hapi, with Laravel as my most used stack currently.
 - 💾 Database Stack: MySQL, PostgreSQL with MySQL as my most used stack currently.
 - 😃 Happy to discuss web development...
 - 📫 How to reach me: DM via LinkedIn https://linkedin.com/in/fajarwz
 
 ## 💼 Career
-I'm currently working full-time remotely as a Software Engineer (Backend) at [Suitmedia](https://suitmedia.com). I am building web applications using PHP-Laravel.
+I currently work full time remotely as a Software Engineer (Backend) at [Suitmedia](https://suitmedia.com). I also do part time freelance work and am open to work.
 
 ## 🔖 Products
-- Paid web development tutorial in Indonesia | [PROMO] Belajar jadi Full Stack Laravel Web Developer, buat web forum dari awal sampai hosting:
+- Paid web development tutorial in Indonesia | Belajar jadi Full Stack Laravel Web Developer, buat web forum DARI AWAL SAMPAI HOSTING:
 [fajarwz.com/laracuss](https://fajarwz.com/laracuss)
-- Blog, free web development tutorials in English, 4K+ views per month:
+- Blog, free web development tutorials in English, mostly with example projects. Getting 5K+ views per month:
 [fajarwz.com/blog](https://fajarwz.com/blog)
 - Open Source Hugo SSG template:
 [Mayhugo](https://github.com/fajarwz/mayhugo)
