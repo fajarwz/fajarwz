@@ -37,6 +37,8 @@ I currently work full time remotely as a Software Engineer (Backend) at [Suitmed
 [Mayhugo](https://github.com/fajarwz/mayhugo)
 - Open Source IT Ticketing App:
 [Iket](https://github.com/fajarwz/iket)
+- Open Source Book Review App, Goodbook:
+[Goodbook](https://github.com/fajarwz/goodbook-fe)
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
