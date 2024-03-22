@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM via LinkedIn https://linkedin.com/in/fajarwz
 
 ## 💼 Career
-I currently work full time remotely as a Software Engineer (Backend) at [Suitmedia](https://suitmedia.com). I also do part time freelance work and am open to work.
+I currently work full-time remotely as a Software Engineer (Backend) at [Suitmedia](https://suitmedia.com). I also do part-time freelance work and am open to work.
 
 ## 🔖 Products
 - Paid web development tutorial in Indonesia | Belajar jadi Full Stack Laravel Web Developer, buat web forum DARI AWAL SAMPAI HOSTING:
 [fajarwz.com/laracuss](https://fajarwz.com/laracuss)
-- Blog, free web development tutorials in English, mostly with example projects. Getting 5K+ views per month:
+- Blog, free web development tutorials in English, mostly with example projects. Getting 10K views per month:
 [fajarwz.com/blog](https://fajarwz.com/blog)
 - Open Source Hugo SSG template:
 [Mayhugo](https://github.com/fajarwz/mayhugo)
