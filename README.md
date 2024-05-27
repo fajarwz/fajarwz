@@ -27,17 +27,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM via LinkedIn https://linkedin.com/in/fajarwz
 
 ## 💼 Career
-I currently work full time remotely as a Software Engineer (Backend) at [Suitmedia](https://suitmedia.com). I also do part time freelance work and am open to work.
+I currently work full-time remotely as a Software Engineer (Backend) at [Suitmedia](https://suitmedia.com). I also do part-time freelance work and am open to work.
 
 ## 🔖 Products
 - Paid web development tutorial in Indonesia | Belajar jadi Full Stack Laravel Web Developer, buat web forum DARI AWAL SAMPAI HOSTING:
 [fajarwz.com/laracuss](https://fajarwz.com/laracuss)
-- Blog, free web development tutorials in English, mostly with example projects. Getting 5K+ views per month:
+- Blog, free web development tutorials in English, mostly with example projects. Getting 10K views per month:
 [fajarwz.com/blog](https://fajarwz.com/blog)
 - Open Source Hugo SSG template:
 [Mayhugo](https://github.com/fajarwz/mayhugo)
 - Open Source IT Ticketing App:
 [Iket](https://github.com/fajarwz/iket)
+- Open Source Book Review App, Goodbook:
+[Goodbook](https://github.com/fajarwz/goodbook-fe)
 
 ## 💬 Talks
 - "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-001/).
@@ -45,11 +47,11 @@ I currently work full time remotely as a Software Engineer (Backend) at [Suitmed
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Temporary Signed URLs in Laravel for Secure Password Resets](https://fajarwz.com/blog/temporary-signed-urls-in-laravel-for-secure-password-resets/)
+- [Laravel 11: CRUD and File Upload Tutorial With Laravel Breeze](https://fajarwz.com/blog/laravel-11-crud-and-file-upload-tutorial-with-laravel-breeze/)
 - [Email Authentication and Verification in Next.js 14 With Next Auth and Prisma](https://fajarwz.com/blog/email-authentication-and-verification-in-nextjs-14-with-next-auth-and-prisma/)
 - [Laravel Database Transaction for Data Consistency](https://fajarwz.com/blog/laravel-database-transaction-for-data-consistency/)
 - [Simple Full-Stack CRUD with Next.js 14, PostgreSQL, and Prisma](https://fajarwz.com/blog/simple-full-stack-crud-with-nextjs-14-postgresql-and-prisma/)
-- [Pagination in React Made Simple with react-paginate](https://fajarwz.com/blog/pagination-in-react-made-simple-with-react-paginate/)
-- [You Might Not Need Else Statement](https://fajarwz.com/blog/you-might-not-need-else-statement/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Social Media
