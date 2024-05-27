@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 ## 💻 About Me
 - 🔥 Highly passionate in web programming and ❤️ love to 📚 explore new things.
 - 👨‍💻 Front End Stack: HTML, CSS, SASS, JavaScript, React, Next.js, TailwindCSS, Bootstrap, Hugo.
-- 🖥️ Back End Stack: PHP, Laravel, Node.js, Hapi, with Laravel as my most used stack currently.
+- 🖥️ Back End Stack: PHP, Laravel, Livewire, Node.js, Hapi, with Laravel as my most used stack currently.
 - 💾 Database Stack: MySQL, PostgreSQL with MySQL as my most used stack currently.
+- 🔧 Other Stack: Docker, Nginx, Apache HTTP Server.
 - 😃 Happy to discuss web development...
 - 📫 How to reach me: DM via LinkedIn https://linkedin.com/in/fajarwz
 
@@ -37,6 +38,10 @@ I currently work full time remotely as a Software Engineer (Backend) at [Suitmed
 [Mayhugo](https://github.com/fajarwz/mayhugo)
 - Open Source IT Ticketing App:
 [Iket](https://github.com/fajarwz/iket)
+
+## 💬 Talks
+- "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-001/).
+- The same topic as above. "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" live on STT Wastukancana Purwakarta's Youtube. [Watch the recording](https://www.youtube.com/live/uwTCt5kF6e0?si=RuJyqqXDxJ6uuSGO).
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
