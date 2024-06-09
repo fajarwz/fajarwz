@@ -42,12 +42,9 @@ I currently work full-time remotely as a Software Engineer (Backend) at [Suitmed
 [Goodbook](https://github.com/fajarwz/goodbook-fe)
 
 ## 💬 Talks
-- "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-001/).\
-<img src="assets/sharsess_pwkdev_001.png" alt="Remote Web Developer at PurwakartaDev" title="Remote Web Developer at PurwakartaDev" height="250">
-- The topic is the same as above. A guest lecture with the topic "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)", was live on STT Wastukancana Purwakarta's Youtube. [Watch the recording](https://www.youtube.com/live/uwTCt5kF6e0?si=RuJyqqXDxJ6uuSGO).\
-<img src="assets/web-remote-stt-wastukancana.jpg" alt="Remote Web Developer at STT Wastukancana" title="Remote Web Developer at STT Wastukancana" height="250">
-- Internal talk on "Fundamentals of Backend Communications and Protocols" for Suitmedia, conducted online. [View Instagram Post](https://www.instagram.com/p/C47MwF0PFGR/?igsh=Z3ExZGd5dm4xYjd3).\
-<img src="assets/be-fundamental-suitmedia.jpg" alt="Fundamentals of Backend Communications and Protocols at Suitmedia" title="Fundamentals of Backend Communications and Protocols at Suitmedia" height="250">
+- "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-001/).<img src="assets/sharsess_pwkdev_001.png" alt="Remote Web Developer at PurwakartaDev" title="Remote Web Developer at PurwakartaDev" height="250">
+- The topic is the same as above. A guest lecture with the topic "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)", was live on STT Wastukancana Purwakarta's Youtube. [Watch the recording](https://www.youtube.com/live/uwTCt5kF6e0?si=RuJyqqXDxJ6uuSGO).<img src="assets/web-remote-stt-wastukancana.jpg" alt="Remote Web Developer at STT Wastukancana" title="Remote Web Developer at STT Wastukancana" height="250">
+- Internal talk on "Fundamentals of Backend Communications and Protocols" for Suitmedia, conducted online. [View Instagram Post](https://www.instagram.com/p/C47MwF0PFGR/?igsh=Z3ExZGd5dm4xYjd3).<img src="assets/be-fundamental-suitmedia.jpg" alt="Fundamentals of Backend Communications and Protocols at Suitmedia" title="Fundamentals of Backend Communications and Protocols at Suitmedia" height="250">
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
