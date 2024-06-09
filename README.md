@@ -43,7 +43,11 @@ I currently work full-time remotely as a Software Engineer (Backend) at [Suitmed
 
 ## 💬 Talks
 - "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-001/).
-- The topic is the same as above. "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)", was live on STT Wastukancana Purwakarta's Youtube. [Watch the recording](https://www.youtube.com/live/uwTCt5kF6e0?si=RuJyqqXDxJ6uuSGO).
+![Remote Web Developer at PurwakartaDev](assets/sharsess_pwkdev_001.png)
+- The topic is the same as above. A guest lecture with the topic "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)", was live on STT Wastukancana Purwakarta's Youtube. [Watch the recording](https://www.youtube.com/live/uwTCt5kF6e0?si=RuJyqqXDxJ6uuSGO).
+![Remote Web Developer at STT Wastukancana](assets/web-remote-stt-wastukancana.jpg)
+- Internal talk on "Fundamentals of Backend Communications and Protocols", at Suitmedia. [View Instagram Post](https://www.instagram.com/p/C47MwF0PFGR/?igsh=Z3ExZGd5dm4xYjd3).
+![Fundamentals of Backend Communications and Protocols at Suitmedia](assets/be-fundamental-suitmedia.jpg)
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
