@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 I currently work full-time remotely as a Software Engineer (Backend) at [Suitmedia](https://suitmedia.com). I also do part-time freelance work and am open to work.
 
 ## 🔖 Products
-- Paid web development tutorial in Indonesia | Belajar jadi Full Stack Laravel Web Developer, buat web forum DARI AWAL SAMPAI HOSTING:
-[fajarwz.com/laracuss](https://fajarwz.com/laracuss)
+- Paid web development tutorial in Indonesia | Belajar jadi Full Stack Laravel Web Developer, buat web forum DARI AWAL SAMPAI HOSTING (Learn to become a Full Stack Laravel Web Developer, BUILD AND HOST A FORUM WEBSITE FROM SCRATCH):
+[fajarwz.com/laracuss](https://fajarwz.com/laracuss)<br><img src="assets/full-stack-laravel-forum-web-app.webp" alt="Learn to become a Full Stack Laravel Web Developer, BUILD AND HOST A FORUM WEBSITE FROM SCRATCH" title="Learn to become a Full Stack Laravel Web Developer, BUILD AND HOST A FORUM WEBSITE FROM SCRATCH" height="250">
 - Blog, free web development tutorials in English, mostly with example projects. Getting 10K views per month:
 [fajarwz.com/blog](https://fajarwz.com/blog)
 - Open Source Hugo SSG template:
