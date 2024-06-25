@@ -42,17 +42,18 @@ I currently work full-time remotely as a Software Engineer (Backend) at [Suitmed
 [Goodbook](https://github.com/fajarwz/goodbook-fe)
 
 ## 💬 Talks
+- "Web Series #001: HTML, CSS, and JavaScript Basics (Web Series #001: HTML, CSS, JavaScript Dasar)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-002/).<br><img src="assets/sharsess_pwkdev_002.png" alt="Web Series #001: HTML, CSS, JavaScript Dasar Poster" title="Web Series #001: HTML, CSS, JavaScript Dasar" height="250">
 - "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-001/).<br><img src="assets/sharsess_pwkdev_001.png" alt="Remote Web Developer at PurwakartaDev" title="Remote Web Developer at PurwakartaDev" height="250">
 - The topic is the same as above. A guest lecture with the topic "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)", was live on STT Wastukancana Purwakarta's Youtube. [Watch the recording](https://www.youtube.com/live/uwTCt5kF6e0?si=RuJyqqXDxJ6uuSGO).<br><img src="assets/web-remote-stt-wastukancana.jpg" alt="Remote Web Developer at STT Wastukancana" title="Remote Web Developer at STT Wastukancana" height="250">
-- Internal talk on "Fundamentals of Backend Communications and Protocols" for Suitmedia, conducted online. [View Instagram Post](https://www.instagram.com/p/C47MwF0PFGR/?igsh=Z3ExZGd5dm4xYjd3).<br><img src="assets/be-fundamental-suitmedia.jpg" alt="Fundamentals of Backend Communications and Protocols at Suitmedia" title="Fundamentals of Backend Communications and Protocols at Suitmedia" height="250">
+- Internal talk on "Fundamentals of Backend Communications and Protocols" for Suitmedia, conducted online. [View Instagram Post](https://www.instagram.com/p/C47MwF0PFGR/?igsh=Z3ExZGd5dm4xYjd3).<br><details><summary>View poster</summary><img src="assets/be-fundamental-suitmedia.jpg" alt="Fundamentals of Backend Communications and Protocols at Suitmedia" title="Fundamentals of Backend Communications and Protocols at Suitmedia" height="250"></details>
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Observer Pattern in Laravel With Observers and Events](https://fajarwz.com/blog/observer-pattern-in-laravel-with-observers-and-events/)
 - [Temporary Signed URLs in Laravel for Secure Password Resets](https://fajarwz.com/blog/temporary-signed-urls-in-laravel-for-secure-password-resets/)
 - [Laravel 11: CRUD and File Upload Tutorial With Laravel Breeze](https://fajarwz.com/blog/laravel-11-crud-and-file-upload-tutorial-with-laravel-breeze/)
 - [Email Authentication and Verification in Next.js 14 With Next Auth and Prisma](https://fajarwz.com/blog/email-authentication-and-verification-in-nextjs-14-with-next-auth-and-prisma/)
 - [Laravel Database Transaction for Data Consistency](https://fajarwz.com/blog/laravel-database-transaction-for-data-consistency/)
-- [Simple Full-Stack CRUD with Next.js 14, PostgreSQL, and Prisma](https://fajarwz.com/blog/simple-full-stack-crud-with-nextjs-14-postgresql-and-prisma/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Social Media
