@@ -49,11 +49,11 @@ I currently work full-time remotely as a Software Engineer (Backend) at [Suitmed
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Search and Encrypt Data in Laravel with CipherSweet](https://fajarwz.com/blog/search-and-encrypt-data-in-laravel-with-ciphersweet/)
 - [Store Sensitive Data Safely With Encryption in Laravel](https://fajarwz.com/blog/store-sensitive-data-safely-with-encryption-in-laravel/)
 - [Observer Pattern in Laravel With Observers and Events](https://fajarwz.com/blog/observer-pattern-in-laravel-with-observers-and-events/)
 - [Temporary Signed URLs in Laravel for Secure Password Resets](https://fajarwz.com/blog/temporary-signed-urls-in-laravel-for-secure-password-resets/)
 - [Laravel 11: CRUD and File Upload Tutorial With Laravel Breeze](https://fajarwz.com/blog/laravel-11-crud-and-file-upload-tutorial-with-laravel-breeze/)
-- [Email Authentication and Verification in Next.js 14 With Next Auth and Prisma](https://fajarwz.com/blog/email-authentication-and-verification-in-nextjs-14-with-next-auth-and-prisma/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Social Media
