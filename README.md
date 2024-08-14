@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ## 💻 About Me
 - 🔥 Highly passionate in web programming and ❤️ love to 📚 explore new things.
 - 👨‍💻 Front End Stack: HTML, CSS, SASS, JavaScript, React, Next.js, TailwindCSS, Bootstrap, Hugo.
-- 🖥️ Back End Stack: PHP, Laravel, Livewire, Node.js, Hapi, with Laravel as my most used stack currently.
+- 🖥️ Back End Stack: PHP, Laravel, Livewire, Node.js, Express, Hapi, with Laravel as my most used stack currently.
 - 💾 Database Stack: MySQL, PostgreSQL with MySQL as my most used stack currently.
-- 🔧 Other Stack: Docker, Nginx, Apache HTTP Server.
+- 🔧 Other Stack: Laravel package development, PHPUnit testing, Docker, Nginx, Apache HTTP Server.
 - 😃 Happy to discuss web development...
 - 📫 How to reach me: DM via LinkedIn https://linkedin.com/in/fajarwz
 
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 I currently work full-time remotely as a Software Engineer (Backend) at [Suitmedia](https://suitmedia.com). I also do part-time freelance work and am open to work.
 
 ## 🔖 Products
+- Open Source package for implementing review system in Laravel:
+[fajarwz/laravel-review](https://github.com/fajarwz/laravel-review)<br><img src="assets/laravel-review-image.png" alt="Flexible and powerful review system for Laravel, let any model review and be reviewed." title="Flexible and powerful review system for Laravel, let any model review and be reviewed." height="250">
 - Paid web development tutorial in Indonesia | Belajar jadi Full Stack Laravel Web Developer, buat web forum DARI AWAL SAMPAI HOSTING (Learn to become a Full Stack Laravel Web Developer, BUILD AND HOST A FORUM WEBSITE FROM SCRATCH):
 [fajarwz.com/laracuss](https://fajarwz.com/laracuss)<br><img src="assets/full-stack-laravel-forum-web-app.webp" alt="Learn to become a Full Stack Laravel Web Developer, BUILD AND HOST A FORUM WEBSITE FROM SCRATCH" title="Learn to become a Full Stack Laravel Web Developer, BUILD AND HOST A FORUM WEBSITE FROM SCRATCH" height="250">
 - Blog, free web development tutorials in English, mostly with example projects. Getting 10K views per month:
@@ -44,7 +46,8 @@ I currently work full-time remotely as a Software Engineer (Backend) at [Suitmed
 ## 💬 Talks
 - "Web Series #002: Creating a Notes App With Bootstrap & jQuery (Bikin Notes App Pakai Bootstrap & jQuery)", was conducted online. [Read more](https://purwakartadev.github.io/posts/sharing-session-003/).<br><img src="assets/sharsess_pwkdev_003.png" alt="Web Series #002: Creating a Notes App With Bootstrap & jQuery Poster" title="Web Series #002: Creating a Notes App With Bootstrap & jQuery" height="250">
 - "Web Series #001: HTML, CSS, and JavaScript Basics (Web Series #001: HTML, CSS, JavaScript Dasar)", at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-002/).<br><img src="assets/sharsess_pwkdev_002.png" alt="Web Series #001: HTML, CSS, and JavaScript Basics Poster" title="Web Series #001: HTML, CSS, and JavaScript Basics" height="250">
-- "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-001/).<br><img src="assets/sharsess_pwkdev_001.png" alt="Remote Web Developer at PurwakartaDev" title="Remote Web Developer at PurwakartaDev" height="250">
+- "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-001/).
+<br><details><summary>View poster</summary><img src="assets/sharsess_pwkdev_001.png" alt="Remote Web Developer at PurwakartaDev" title="Remote Web Developer at PurwakartaDev" height="250"></details>
 - The topic is the same as above. A guest lecture with the topic "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)", was live on STT Wastukancana Purwakarta's Youtube. [Watch the recording](https://www.youtube.com/live/uwTCt5kF6e0?si=RuJyqqXDxJ6uuSGO).
 <br><details><summary>View poster</summary><img src="assets/web-remote-stt-wastukancana.jpg" alt="Remote Web Developer at STT Wastukancana" title="Remote Web Developer at STT Wastukancana" height="250"></details>
 - Internal talk on "Fundamentals of Backend Communications and Protocols" for Suitmedia, was conducted online. [View Instagram Post](https://www.instagram.com/p/C47MwF0PFGR/?igsh=Z3ExZGd5dm4xYjd3).<br><details><summary>View poster</summary><img src="assets/be-fundamental-suitmedia.jpg" alt="Fundamentals of Backend Communications and Protocols at Suitmedia" title="Fundamentals of Backend Communications and Protocols at Suitmedia" height="250"></details>
