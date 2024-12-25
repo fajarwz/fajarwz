@@ -26,8 +26,18 @@ Here are some ideas to get you started:
 - 😃 Happy to discuss web development...
 - 📫 How to reach me: DM via LinkedIn https://linkedin.com/in/fajarwz
 
+## 💬 Talks
+- "IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity! (IDCamp Alumni Dialogue #2 - Work Smart: Cara Kerja Cerdas yang Bikin Produktivitas Melesat!)", was live on Dicoding Indonesia's Youtube. [Read more](https://www.dicoding.com/events/9133).<br><img src="assets/talks_idcamp_alumni_dialogue_2_work_smart.png" alt="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" title="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" height="250">
+- "Web Series #002: Creating a Notes App With Bootstrap & jQuery (Bikin Notes App Pakai Bootstrap & jQuery)", was conducted online. [Read more](https://purwakartadev.github.io/posts/sharing-session-003/).<br><details><summary>View poster</summary><img src="assets/sharsess_pwkdev_003.png" alt="Web Series #002: Creating a Notes App With Bootstrap & jQuery Poster" title="Web Series #002: Creating a Notes App With Bootstrap & jQuery" height="250"></details>
+- "Web Series #001: HTML, CSS, and JavaScript Basics (Web Series #001: HTML, CSS, JavaScript Dasar)", at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-002/).<br><details><summary>View poster</summary><img src="assets/sharsess_pwkdev_002.png" alt="Web Series #001: HTML, CSS, and JavaScript Basics Poster" title="Web Series #001: HTML, CSS, and JavaScript Basics" height="250"></details>
+- "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-001/).
+<br><details><summary>View poster</summary><img src="assets/sharsess_pwkdev_001.png" alt="Remote Web Developer at PurwakartaDev" title="Remote Web Developer at PurwakartaDev" height="250"></details>
+- The topic is the same as above. A guest lecture with the topic "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)", was live on STT Wastukancana Purwakarta's Youtube. [Watch the recording](https://www.youtube.com/live/uwTCt5kF6e0?si=RuJyqqXDxJ6uuSGO).
+<br><img src="assets/web-remote-stt-wastukancana.jpg" alt="Remote Web Developer at STT Wastukancana" title="Remote Web Developer at STT Wastukancana" height="250">
+- Internal talk on "Fundamentals of Backend Communications and Protocols" for Suitmedia, was conducted online. [View Instagram Post](https://www.instagram.com/p/C47MwF0PFGR/?igsh=Z3ExZGd5dm4xYjd3).<br><details><summary>View poster</summary><img src="assets/be-fundamental-suitmedia.jpg" alt="Fundamentals of Backend Communications and Protocols at Suitmedia" title="Fundamentals of Backend Communications and Protocols at Suitmedia" height="250"></details>
+
 ## 💼 Career
-I currently work full-time remotely as a Software Engineer (Backend) at [Suitmedia](https://suitmedia.com). I also do part-time freelance work and am open to work.
+I currently work full-time remotely as a [Full-stack Web Engineer at Stealth Startup](https://www.linkedin.com/in/fajarwz). I also do part-time freelance work and am open to work.
 
 ## 🔖 Products
 - Open Source package for implementing review system in Laravel:
@@ -42,16 +52,6 @@ I currently work full-time remotely as a Software Engineer (Backend) at [Suitmed
 [Iket](https://github.com/fajarwz/iket)
 - Open Source Book Review App, Goodbook:
 [Goodbook](https://github.com/fajarwz/goodbook-fe)
-
-## 💬 Talks
-- "IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity! (IDCamp Alumni Dialogue #2 - Work Smart: Cara Kerja Cerdas yang Bikin Produktivitas Melesat!)", was live on Dicoding Indonesia's Youtube. [Read more](https://www.dicoding.com/events/9133).<br><img src="assets/talks_idcamp_alumni_dialogue_2_work_smart.png" alt="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" title="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" height="250">
-- "Web Series #002: Creating a Notes App With Bootstrap & jQuery (Bikin Notes App Pakai Bootstrap & jQuery)", was conducted online. [Read more](https://purwakartadev.github.io/posts/sharing-session-003/).<br><details><summary>View poster</summary><img src="assets/sharsess_pwkdev_003.png" alt="Web Series #002: Creating a Notes App With Bootstrap & jQuery Poster" title="Web Series #002: Creating a Notes App With Bootstrap & jQuery" height="250"></details>
-- "Web Series #001: HTML, CSS, and JavaScript Basics (Web Series #001: HTML, CSS, JavaScript Dasar)", at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-002/).<br><details><summary>View poster</summary><img src="assets/sharsess_pwkdev_002.png" alt="Web Series #001: HTML, CSS, and JavaScript Basics Poster" title="Web Series #001: HTML, CSS, and JavaScript Basics" height="250"></details>
-- "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)" at the Gedung Creative Center Purwakarta, Indonesia. [Read more](https://purwakartadev.github.io/posts/sharing-session-001/).
-<br><details><summary>View poster</summary><img src="assets/sharsess_pwkdev_001.png" alt="Remote Web Developer at PurwakartaDev" title="Remote Web Developer at PurwakartaDev" height="250"></details>
-- The topic is the same as above. A guest lecture with the topic "Building a Career as a Successful Web Developer in the age of AI and Remote Working (Membangun Karir sebagai Web Developer Sukses di Era AI dan Remote Working)", was live on STT Wastukancana Purwakarta's Youtube. [Watch the recording](https://www.youtube.com/live/uwTCt5kF6e0?si=RuJyqqXDxJ6uuSGO).
-<br><img src="assets/web-remote-stt-wastukancana.jpg" alt="Remote Web Developer at STT Wastukancana" title="Remote Web Developer at STT Wastukancana" height="250">
-- Internal talk on "Fundamentals of Backend Communications and Protocols" for Suitmedia, was conducted online. [View Instagram Post](https://www.instagram.com/p/C47MwF0PFGR/?igsh=Z3ExZGd5dm4xYjd3).<br><details><summary>View poster</summary><img src="assets/be-fundamental-suitmedia.jpg" alt="Fundamentals of Backend Communications and Protocols at Suitmedia" title="Fundamentals of Backend Communications and Protocols at Suitmedia" height="250"></details>
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
