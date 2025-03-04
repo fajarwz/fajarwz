@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - Internal talk on "Fundamentals of Backend Communications and Protocols" for Suitmedia, was conducted online. [View Instagram Post](https://www.instagram.com/p/C47MwF0PFGR/?igsh=Z3ExZGd5dm4xYjd3).<br><details><summary>View poster</summary><img src="assets/be-fundamental-suitmedia.jpg" alt="Fundamentals of Backend Communications and Protocols at Suitmedia" title="Fundamentals of Backend Communications and Protocols at Suitmedia" height="250"></details>
 
 ## 💼 Career
-I currently work full-time remotely as a [Full-stack Web Engineer at Stealth Startup](https://www.linkedin.com/in/fajarwz). I also do part-time freelance work and am open to work.
+I'm currently open to work and ready to join ASAP, [hit me up right away](mailto:fajarwindhuzulfikar@gmail.com)!
 
 ## 🔖 Products
 - Open Source package for implementing review system in Laravel:
