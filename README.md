@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+> ℹ️ Hi, thanks for visiting my github profile. I am currently looking for a full-time job opportunity as a Laravel developer (fullstack or backend). Please [contact me](mailto:fajarwindhuzulfikar@gmail.com) to discuss how I can contribute to your project.
+
 [![fajarwz's github stats](https://github-readme-stats.vercel.app/api?username=fajarwz&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 # 👋 Hi, I'm Fajar Windhu Zulfikar (@fajarwz), A Web Developer
