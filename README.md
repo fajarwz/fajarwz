@@ -57,11 +57,11 @@ I'm currently open to work and ready to join ASAP, [hit me up right away](mailto
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Make Good Use of authorize&lpar;&rpar; Method in Laravel Form Requests](https://fajarwz.com/blog/make-good-use-of-authorize-method-in-laravel-form-requests/)
 - [React Query: Data Fetching with Smart Caching](https://fajarwz.com/blog/react-query-data-fetching-with-smart-caching/)
 - [Easy Laravel Development Setup With Docker](https://fajarwz.com/blog/easy-laravel-development-setup-with-docker/)
 - [Search and Encrypt Data in Laravel with CipherSweet](https://fajarwz.com/blog/search-and-encrypt-data-in-laravel-with-ciphersweet/)
 - [Store Sensitive Data Safely With Encryption in Laravel](https://fajarwz.com/blog/store-sensitive-data-safely-with-encryption-in-laravel/)
-- [Observer Pattern in Laravel With Observers and Events](https://fajarwz.com/blog/observer-pattern-in-laravel-with-observers-and-events/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Social Media
