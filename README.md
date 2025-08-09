@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 I'm currently open to work and ready to join ASAP, [hit me up right away](mailto:fajarwindhuzulfikar@gmail.com)!
 
 ## 🔖 Products
+- Telegram bot for learning English in a fun way. You can request random words, take quizzes, or even sign up for daily vocabulary practice sessions:
+[Wordventure](https://t.me/wordventure_bot)
 - Open Source package for implementing review system in Laravel:
 [fajarwz/laravel-review](https://github.com/fajarwz/laravel-review)<br><img src="assets/laravel-review-image.png" alt="Flexible and powerful review system for Laravel, let any model review and be reviewed." title="Flexible and powerful review system for Laravel, let any model review and be reviewed." height="250">
 - Paid web development tutorial in Indonesia | Belajar jadi Full Stack Laravel Web Developer, buat web forum DARI AWAL SAMPAI HOSTING (Learn to become a Full Stack Laravel Web Developer, BUILD AND HOST A FORUM WEBSITE FROM SCRATCH):
