@@ -59,11 +59,11 @@ I'm currently open to work and ready to join ASAP, [hit me up right away](mailto
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build an AI Project Manager with MCP, Node.js, and Google Sheets](https://fajarwz.com/blog/build-an-ai-project-manager-with-mcp-node-js-and-google-sheets/)
 - [Building an AI Assistant for Exploratory Data Analysis with Node.js and OpenAI](https://fajarwz.com/blog/building-an-ai-assistant-for-exploratory-data-analysis-with-node-js-and-open-ai/)
 - [Building a Telegram Bot in Node.js: Create Your Own Daily Word Bot](https://fajarwz.com/blog/building-a-telegram-bot-in-nodejs-create-your-own-daily-word-bot/)
 - [Building a CLI Tool in JavaScript: Streamlining Tasks With Simple Commands](https://fajarwz.com/blog/building-a-cli-tool-in-javascript-streamlining-tasks-with-simple-commands/)
 - [Laravel Service Pattern: Applying SOLID Principles for Scalable Code](https://fajarwz.com/blog/laravel-service-pattern-applying-solid-principles-for-scalable-code/)
-- [Make Good Use of authorize&lpar;&rpar; Method in Laravel Form Requests](https://fajarwz.com/blog/make-good-use-of-authorize-method-in-laravel-form-requests/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Social Media
