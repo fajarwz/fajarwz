@@ -59,11 +59,11 @@ I'm currently open to work and ready to join ASAP, [hit me up right away](mailto
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Sets Junior Developers and Senior Developers Apart](https://fajarwz.com/blog/what-sets-junior-developers-and-senior-developers-apart/)
 - [Real-Time Laravel Made Easy with Reverb](https://fajarwz.com/blog/real-time-laravel-made-easy-with-reverb/)
 - [Build an AI Project Manager with MCP, Node.js, and Google Sheets](https://fajarwz.com/blog/build-an-ai-project-manager-with-mcp-node-js-and-google-sheets/)
 - [Building an AI Assistant for Exploratory Data Analysis with Node.js and OpenAI](https://fajarwz.com/blog/building-an-ai-assistant-for-exploratory-data-analysis-with-node-js-and-open-ai/)
 - [Building a Telegram Bot in Node.js: Create Your Own Daily Word Bot](https://fajarwz.com/blog/building-a-telegram-bot-in-nodejs-create-your-own-daily-word-bot/)
-- [Building a CLI Tool in JavaScript: Streamlining Tasks With Simple Commands](https://fajarwz.com/blog/building-a-cli-tool-in-javascript-streamlining-tasks-with-simple-commands/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Social Media
