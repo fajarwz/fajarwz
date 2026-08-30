@@ -59,11 +59,11 @@ I'm currently open to work and ready to join ASAP, [hit me up right away](mailto
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Stopped Putting Everything in Laravel Services](https://fajarwz.com/blog/why-i-stopped-putting-everything-in-laravel-services/)
 - [Companies Don&#39;t Hire You to Write Code](https://fajarwz.com/blog/companies-dont-hire-you-to-write-code/)
 - [Solving Dependent Background Jobs and Listeners in Laravel](https://fajarwz.com/blog/solving-dependent-background-jobs-and-listeners-in-laravel/)
 - [Create Your First Tauri App](https://fajarwz.com/blog/create-your-first-tauri-app/)
 - [Precomputed Values: The Trick Behind Fast Apps with Tons of Data](https://fajarwz.com/blog/precomputed-values-the-trick-behind-fast-apps-with-tons-of-data/)
-- [What Sets Junior Developers and Senior Developers Apart](https://fajarwz.com/blog/what-sets-junior-developers-and-senior-developers-apart/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 Social Media
