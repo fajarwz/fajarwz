@@ -15,18 +15,23 @@ Here are some ideas to get you started:
 
 > ℹ️ Hi, thanks for visiting my github profile. I am currently looking for a full-time job opportunity as a Laravel developer (fullstack or backend). Please [contact me](mailto:fajarwindhuzulfikar@gmail.com) to discuss how I can contribute to your project.
 
-[![fajarwz's github stats](https://github-readme-stats.vercel.app/api?username=fajarwz&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Fajarwz's GitHub stats](https://github-stats-extended.vercel.app/api?username=fajarwz&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Fajarwz%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
 
 # 👋 Hi, I'm Fajar Windhu Zulfikar (@fajarwz), A Web Developer
 
 ## 💻 About Me
+- 🔥 Contributing to open sources
+- 🔥 Sharing knowledge on my personal website [fajarwz.com/blog](https://fajarwz.com/blog)
 - 🔥 Highly passionate in web programming and ❤️ love to 📚 explore new things.
 - 👨‍💻 Front End Stack: HTML, CSS, SASS, JavaScript, React, Next.js, TailwindCSS, Bootstrap, Hugo.
 - 🖥️ Back End Stack: PHP, Laravel, Livewire, Node.js, Express, Hapi, with Laravel as my most used stack currently.
 - 💾 Database Stack: MySQL, PostgreSQL with MySQL as my most used stack currently.
 - 🔧 Other Stack: Laravel package development, PHPUnit testing, Docker, Nginx, Apache HTTP Server.
 - 😃 Happy to discuss web development...
-- 📫 How to reach me: DM via LinkedIn https://linkedin.com/in/fajarwz
+- 📫 How to reach me: DM via LinkedIn [linkedin.com/in/fajarwz](https://linkedin.com/in/fajarwz)
+
+## 🖥️ Open Source Contributions
+- Cachet (Platform status page, 1M+ downloads, 15K+ stars): [cachethq/core](https://github.com/cachethq/core/pulls?q=is%3Apr+author%3Afajarwz)
 
 ## 💬 Talks
 - "IDCamp Alumni Dialogue #2 - Work ~Hard~ Smart: How to Work Smartly to Increase Productivity! (IDCamp Alumni Dialogue #2 - Work Smart: Cara Kerja Cerdas yang Bikin Produktivitas Melesat!)", was live on Dicoding Indonesia's Youtube. [Read more](https://www.dicoding.com/events/9133).<br><img src="assets/talks_idcamp_alumni_dialogue_2_work_smart.png" alt="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" title="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" height="250">
