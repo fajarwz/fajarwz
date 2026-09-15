@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM via LinkedIn [linkedin.com/in/fajarwz](https://linkedin.com/in/fajarwz)
 
 ## 🖥️ Open Source Contributions
-- Cachet (Platform status page, 1M+ downloads, 15K+ stars): [cachethq/core](https://github.com/cachethq/core/pulls?q=is%3Apr+author%3Afajarwz)
+- Cachet (platform status page, 1M+ downloads, 15K+ stars): [cachethq/core](https://github.com/cachethq/core/pulls?q=is%3Apr+author%3Afajarwz)
+- Akaunting (accounting software, 300K+ users, 10K+ stars): [akaunting/akaunting](https://github.com/akaunting/akaunting/pulls?q=is%3Apr+author%3Afajarwz)
 
 ## 💬 Talks
 - "IDCamp Alumni Dialogue #2 - Work ~Hard~ Smart: How to Work Smartly to Increase Productivity! (IDCamp Alumni Dialogue #2 - Work Smart: Cara Kerja Cerdas yang Bikin Produktivitas Melesat!)", was live on Dicoding Indonesia's Youtube. [Read more](https://www.dicoding.com/events/9133).<br><img src="assets/talks_idcamp_alumni_dialogue_2_work_smart.png" alt="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" title="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" height="250">
