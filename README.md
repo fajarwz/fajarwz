@@ -64,7 +64,7 @@ I'm currently open to work and ready to join ASAP, [hit me up right away](mailto
 <!-- BLOG-POST-LIST:START -->
 - [Building an AI Agent in Laravel with the Laravel AI SDK](https://fajarwz.com/blog/building-an-ai-agent-in-laravel-with-the-laravel-ai-sdk/)
 - [Why I Stopped Putting Everything in Laravel Services](https://fajarwz.com/blog/why-i-stopped-putting-everything-in-laravel-services/)
-- [Companies Don't Hire You to Write Code](https://fajarwz.com/blog/companies-dont-hire-you-to-write-code/)
+- [Companies Don&#39;t Hire You to Write Code](https://fajarwz.com/blog/companies-dont-hire-you-to-write-code/)
 - [Solving Dependent Background Jobs and Listeners in Laravel](https://fajarwz.com/blog/solving-dependent-background-jobs-and-listeners-in-laravel/)
 - [Create Your First Tauri App](https://fajarwz.com/blog/create-your-first-tauri-app/)
 <!-- BLOG-POST-LIST:END -->
