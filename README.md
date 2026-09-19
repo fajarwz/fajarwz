@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔥 Contributing to open sources
 - 🔥 Sharing knowledge on my personal website [fajarwz.com/blog](https://fajarwz.com/blog)
 - 🔥 Highly passionate in web programming and ❤️ love to 📚 explore new things.
-- 👨‍💻 Front End Stack: HTML, CSS, SASS, JavaScript, React, Next.js, TailwindCSS, Bootstrap, Hugo.
+- 👨💻 Front End Stack: HTML, CSS, SASS, JavaScript, React, Next.js, TailwindCSS, Bootstrap, Hugo.
 - 🖥️ Back End Stack: PHP, Laravel, Livewire, Node.js, Express, Hapi, with Laravel as my most used stack currently.
 - 💾 Database Stack: MySQL, PostgreSQL with MySQL as my most used stack currently.
 - 🔧 Other Stack: Laravel package development, PHPUnit testing, Docker, Nginx, Apache HTTP Server.
@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 ## 🖥️ Open Source Contributions
 - Cachet (platform status page, 1M+ downloads, 15K+ stars): [cachethq/core](https://github.com/cachethq/core/pulls?q=is%3Apr+author%3Afajarwz)
 - Akaunting (accounting software, 300K+ users, 10K+ stars): [akaunting/akaunting](https://github.com/akaunting/akaunting/pulls?q=is%3Apr+author%3Afajarwz)
+- Laravel Review (flexible review system for Laravel, 26 stars): [fajarwz/laravel-review](https://github.com/fajarwz/laravel-review)
+- Iket (IT ticketing app, 12 stars): [fajarwz/iket](https://github.com/fajarwz/iket)
+- Mayhugo (clean, lightweight, minimalist Hugo theme, 5 stars): [fajarwz/mayhugo](https://github.com/fajarwz/mayhugo)
+- Goodbook (book review app, 1 star): [fajarwz/goodbook-fe](https://github.com/fajarwz/goodbook-fe)
+- Lenovo Conservation Scheduler (Windows tray utility that switches Lenovo battery conservation mode on a schedule, 0 stars): [fajarwz/lenovo-conservation-scheduler](https://github.com/fajarwz/lenovo-conservation-scheduler)
 
 ## 💬 Talks
 - "IDCamp Alumni Dialogue #2 - Work ~Hard~ Smart: How to Work Smartly to Increase Productivity! (IDCamp Alumni Dialogue #2 - Work Smart: Cara Kerja Cerdas yang Bikin Produktivitas Melesat!)", was live on Dicoding Indonesia's Youtube. [Read more](https://www.dicoding.com/events/9133).<br><img src="assets/talks_idcamp_alumni_dialogue_2_work_smart.png" alt="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" title="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" height="250">
@@ -50,24 +55,16 @@ I'm currently open to work and ready to join ASAP, [hit me up right away](mailto
 ## 🔖 Products
 - Telegram bot for learning English in a fun way. You can request random words, take quizzes, or even sign up for daily vocabulary practice sessions:
 [Wordventure](https://t.me/wordventure_bot)
-- Open Source package for implementing review system in Laravel:
-[fajarwz/laravel-review](https://github.com/fajarwz/laravel-review)<br><img src="assets/laravel-review-image.png" alt="Flexible and powerful review system for Laravel, let any model review and be reviewed." title="Flexible and powerful review system for Laravel, let any model review and be reviewed." height="250">
 - Paid web development tutorial in Indonesia | Belajar jadi Full Stack Laravel Web Developer, buat web forum DARI AWAL SAMPAI HOSTING (Learn to become a Full Stack Laravel Web Developer, BUILD AND HOST A FORUM WEBSITE FROM SCRATCH):
 [fajarwz.com/laracuss](https://fajarwz.com/laracuss)<br><img src="assets/full-stack-laravel-forum-web-app.webp" alt="Learn to become a Full Stack Laravel Web Developer, BUILD AND HOST A FORUM WEBSITE FROM SCRATCH" title="Learn to become a Full Stack Laravel Web Developer, BUILD AND HOST A FORUM WEBSITE FROM SCRATCH" height="250">
 - Blog, free web development tutorials in English, mostly with example projects. Getting 10K views per month:
 [fajarwz.com/blog](https://fajarwz.com/blog)
-- Open Source Hugo SSG template:
-[Mayhugo](https://github.com/fajarwz/mayhugo)
-- Open Source IT Ticketing App:
-[Iket](https://github.com/fajarwz/iket)
-- Open Source Book Review App, Goodbook:
-[Goodbook](https://github.com/fajarwz/goodbook-fe)
 
 ## 📚 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building an AI Agent in Laravel with the Laravel AI SDK](https://fajarwz.com/blog/building-an-ai-agent-in-laravel-with-the-laravel-ai-sdk/)
 - [Why I Stopped Putting Everything in Laravel Services](https://fajarwz.com/blog/why-i-stopped-putting-everything-in-laravel-services/)
-- [Companies Don&#39;t Hire You to Write Code](https://fajarwz.com/blog/companies-dont-hire-you-to-write-code/)
+- [Companies Don't Hire You to Write Code](https://fajarwz.com/blog/companies-dont-hire-you-to-write-code/)
 - [Solving Dependent Background Jobs and Listeners in Laravel](https://fajarwz.com/blog/solving-dependent-background-jobs-and-listeners-in-laravel/)
 - [Create Your First Tauri App](https://fajarwz.com/blog/create-your-first-tauri-app/)
 <!-- BLOG-POST-LIST:END -->
