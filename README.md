@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 ## 🖥️ Open Source Contributions
 - Cachet (platform status page, 1M+ downloads, 15K+ stars): [cachethq/core](https://github.com/cachethq/core/pulls?q=is%3Apr+author%3Afajarwz)
 - Akaunting (accounting software, 300K+ users, 10K+ stars): [akaunting/akaunting](https://github.com/akaunting/akaunting/pulls?q=is%3Apr+author%3Afajarwz)
-- Laravel Review (flexible review system for Laravel, 26 stars): [fajarwz/laravel-review](https://github.com/fajarwz/laravel-review)
-- Iket (IT ticketing app, 12 stars): [fajarwz/iket](https://github.com/fajarwz/iket)
-- Mayhugo (clean, lightweight, minimalist Hugo theme, 5 stars): [fajarwz/mayhugo](https://github.com/fajarwz/mayhugo)
-- Goodbook (book review app, 1 star): [fajarwz/goodbook-fe](https://github.com/fajarwz/goodbook-fe)
-- Lenovo Conservation Scheduler (Windows tray utility that switches Lenovo battery conservation mode on a schedule, 0 stars): [fajarwz/lenovo-conservation-scheduler](https://github.com/fajarwz/lenovo-conservation-scheduler)
+- Laravel Review (flexible review system for Laravel): [fajarwz/laravel-review](https://github.com/fajarwz/laravel-review)
+- Iket (IT ticketing app): [fajarwz/iket](https://github.com/fajarwz/iket)
+- Mayhugo (clean, lightweight, minimalist Hugo theme): [fajarwz/mayhugo](https://github.com/fajarwz/mayhugo)
+- Goodbook (book review app): [fajarwz/goodbook-fe](https://github.com/fajarwz/goodbook-fe)
+- Lenovo Conservation Scheduler (Windows tray utility that switches Lenovo battery conservation mode on a schedule): [fajarwz/lenovo-conservation-scheduler](https://github.com/fajarwz/lenovo-conservation-scheduler)
 
 ## 💬 Talks
 - "IDCamp Alumni Dialogue #2 - Work ~Hard~ Smart: How to Work Smartly to Increase Productivity! (IDCamp Alumni Dialogue #2 - Work Smart: Cara Kerja Cerdas yang Bikin Produktivitas Melesat!)", was live on Dicoding Indonesia's Youtube. [Read more](https://www.dicoding.com/events/9133).<br><img src="assets/talks_idcamp_alumni_dialogue_2_work_smart.png" alt="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" title="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" height="250">
