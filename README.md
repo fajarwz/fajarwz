@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ## 💻 About Me
 - 🔥 Contributing to open sources
-- 🔥 Sharing knowledge on my personal website [fajarwz.com/blog](https://fajarwz.com/blog)
-- 🔥 Highly passionate in web programming and ❤️ love to 📚 explore new things.
+- 📚 Sharing knowledge on my personal website [fajarwz.com/blog](https://fajarwz.com/blog)
+- 💼 Highly passionate in web programming and ❤️ love to 📚 explore new things.
 - 👨💻 Front End Stack: HTML, CSS, SASS, JavaScript, React, Next.js, TailwindCSS, Bootstrap, Hugo.
 - 🖥️ Back End Stack: PHP, Laravel, Livewire, Node.js, Express, Hapi, with Laravel as my most used stack currently.
 - 💾 Database Stack: MySQL, PostgreSQL with MySQL as my most used stack currently.
@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM via LinkedIn [linkedin.com/in/fajarwz](https://linkedin.com/in/fajarwz)
 
 ## 🖥️ Open Source Contributions
-- Cachet (platform status page, 1M+ downloads, 15K+ stars): [cachethq/core](https://github.com/cachethq/core/pulls?q=is%3Apr+author%3Afajarwz)
-- Akaunting (accounting software, 300K+ users, 10K+ stars): [akaunting/akaunting](https://github.com/akaunting/akaunting/pulls?q=is%3Apr+author%3Afajarwz)
+- 🔥 Cachet (platform status page, 1M+ downloads, 15K+ stars): [cachethq/core](https://github.com/cachethq/core/pulls?q=is%3Apr+author%3Afajarwz)
+- 🔥 Bagisto (eCommerce platform, 150K+ downloads, 28K+ stars): [bagisto/bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Apr+author%3Afajarwz)
+- 🔥 Akaunting (accounting software, 300K+ users, 10K+ stars): [akaunting/akaunting](https://github.com/akaunting/akaunting/pulls?q=is%3Apr+author%3Afajarwz)
 - Laravel Review (flexible review system for Laravel): [fajarwz/laravel-review](https://github.com/fajarwz/laravel-review)
 - Iket (IT ticketing app): [fajarwz/iket](https://github.com/fajarwz/iket)
 - Mayhugo (clean, lightweight, minimalist Hugo theme): [fajarwz/mayhugo](https://github.com/fajarwz/mayhugo)
