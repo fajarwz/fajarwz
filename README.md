@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM via LinkedIn [linkedin.com/in/fajarwz](https://linkedin.com/in/fajarwz)
 
 ## 🖥️ Open Source Contributions
-- 🔥 Cachet (platform status page, 1M+ downloads, 15K+ stars): [cachethq/core](https://github.com/cachethq/core/pulls?q=is%3Apr+author%3Afajarwz)
-- 🔥 Bagisto (eCommerce platform, 150K+ downloads, 28K+ stars): [bagisto/bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Apr+author%3Afajarwz)
-- 🔥 Akaunting (accounting software, 300K+ users, 10K+ stars): [akaunting/akaunting](https://github.com/akaunting/akaunting/pulls?q=is%3Apr+author%3Afajarwz)
+- 🔥 Cachet (platform status page, 1M+ downloads, 15K+ stars): [cachethq/core](https://github.com/cachethq/core/pulls?q=is%3Apr+author%3Afajarwz) ![Merged PRs: cachethq/core](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Acachethq%2Fcore%2Bauthor%3Afajarwz%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=merged&color=31a8ff)
+- 🔥 Bagisto (eCommerce platform, 150K+ downloads, 28K+ stars): [bagisto/bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Apr+author%3Afajarwz) ![Merged PRs: bagisto/bagisto](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Abagisto%2Fbagisto%2Bauthor%3Afajarwz%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=merged&color=31a8ff)
+- 🔥 Akaunting (accounting software, 300K+ users, 10K+ stars): [akaunting/akaunting](https://github.com/akaunting/akaunting/pulls?q=is%3Apr+author%3Afajarwz) ![Merged PRs: akaunting/akaunting](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Aakaunting%2Fakaunting%2Bauthor%3Afajarwz%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=merged&color=31a8ff)
 - Laravel Review (flexible review system for Laravel): [fajarwz/laravel-review](https://github.com/fajarwz/laravel-review)
 - Iket (IT ticketing app): [fajarwz/iket](https://github.com/fajarwz/iket)
 - Mayhugo (clean, lightweight, minimalist Hugo theme): [fajarwz/mayhugo](https://github.com/fajarwz/mayhugo)
