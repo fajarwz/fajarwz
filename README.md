@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 > ℹ️ Hi, thanks for visiting my github profile. I am currently looking for a full-time job opportunity as a Laravel developer (fullstack or backend). Please [contact me](mailto:fajarwindhuzulfikar@gmail.com) to discuss how I can contribute to your project.
 
-# 👋 Hi, I'm Fajar Windhu Zulfikar (@fajarwz), A Web Developer
+# 👋 Hi, I'm Fajar Windhu Zulfikar (@fajarwz), A Senior Marketplace Developer | Laravel | React | Full Stack Developer
+
+I'm a Full-Stack Software Engineer specializing in building and scaling marketplace platforms for the European, UK, and US markets. My experience spans cross-border e-commerce, payment processing, taxation, shipping, localization, and marketplace operations, with a strong focus on backend architecture using PHP and Laravel.
 
 ## 💻 About Me
 - 🔥 Contributing to open sources
