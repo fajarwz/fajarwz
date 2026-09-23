@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 > ℹ️ Hi, thanks for visiting my github profile. I am currently looking for a full-time job opportunity as a Laravel developer (fullstack or backend). Please [contact me](mailto:fajarwindhuzulfikar@gmail.com) to discuss how I can contribute to your project.
 
-[![Fajarwz's GitHub stats](https://github-stats-extended.vercel.app/api?username=fajarwz&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Fajarwz%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
-
 # 👋 Hi, I'm Fajar Windhu Zulfikar (@fajarwz), A Web Developer
 
 ## 💻 About Me
