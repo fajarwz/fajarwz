@@ -42,6 +42,7 @@ I'm a Full-Stack Software Engineer specializing in building and scaling marketpl
 - Goodbook (book review app): [fajarwz/goodbook-fe](https://github.com/fajarwz/goodbook-fe)
 - Lenovo Conservation Scheduler (Windows tray utility that switches Lenovo battery conservation mode on a schedule): [fajarwz/lenovo-conservation-scheduler](https://github.com/fajarwz/lenovo-conservation-scheduler)
 - Kawal Asap (hotspot and haze monitoring for Indonesia, from free and keyless public data): [fajarwz/kawalasap](https://github.com/fajarwz/kawalasap)
+- Git Mapper (standalone Git history graph viewer for Windows): [fajarwz/git-mapper](https://github.com/fajarwz/git-mapper)
 
 ## 💬 Talks
 - "IDCamp Alumni Dialogue #2 - Work ~Hard~ Smart: How to Work Smartly to Increase Productivity! (IDCamp Alumni Dialogue #2 - Work Smart: Cara Kerja Cerdas yang Bikin Produktivitas Melesat!)", was live on Dicoding Indonesia's Youtube. [Read more](https://www.dicoding.com/events/9133).<br><img src="assets/talks_idcamp_alumni_dialogue_2_work_smart.png" alt="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" title="IDCamp Alumni Dialogue #2 - Work Smart: How to Work Smartly to Increase Productivity!" height="250">
