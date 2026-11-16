@@ -17,14 +17,56 @@ Here are some ideas to get you started:
 
 I'm a Full-Stack Software Engineer specializing in building and scaling marketplace platforms for the European, UK, and US markets. My experience spans cross-border e-commerce, payment processing, taxation, shipping, localization, and marketplace operations, with a strong focus on backend architecture using PHP and Laravel.
 
-## 💻 About Me
-- 💼 Highly passionate in web programming and ❤️ love to 📚 explore new things.
-- 👨💻 Front End Stack: HTML, CSS, SASS, JavaScript, React, Next.js, Hugo.
-- 💽 Back End Stack: PHP, Laravel, Livewire, Node.js, Express, Hapi, with Laravel as my most used stack currently.
-- 🖥️ Desktop Stack: Tauri.
-- 💾 Database Stack: MySQL, PostgreSQL with MySQL as my most used stack currently.
-- 🔧 Other Stack: Laravel package development, PHPUnit, Pest, Vitest, Docker, Nginx, Apache HTTP Server.
-- 📫 How to reach me: DM via LinkedIn [linkedin.com/in/fajarwz](https://linkedin.com/in/fajarwz)
+## 👋 About Me
+
+I'm a software engineer passionate about building web applications, exploring new technologies, and solving real-world problems.
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+
+**Desktop & Mobile**
+
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Databases & Storage**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Tools & Testing**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-00A98F?style=flat-square&logo=pest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Other**
+
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Architecture](https://img.shields.io/badge/Web_Architecture-6B7280?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Laravel Packages](https://img.shields.io/badge/Laravel_Packages-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajarwz/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fajarwz)
 
 ## 🖥️ Open Source Contributions
 - 🔥 Laravel | The most popular PHP web app framework, 585M+ downloads, 84K+ stars (main repo): [laravel/framework](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Afajarwz) ![Merged PRs: laravel/framework](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Alaravel%2Fframework%2Bauthor%3Afajarwz%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=merged&color=31a8ff)
