@@ -102,12 +102,12 @@ Explore my other projects and experiments.
 
 I've contributed to several open-source projects, particularly within the PHP and Laravel ecosystem.
 
-| Project | Description |
-| --- | --- |
-| [Laravel](https://github.com/laravel/framework) | PHP web application framework |
-| [Cachet](https://github.com/CachetHQ/Cachet) | Open-source status page system |
-| [Bagisto](https://github.com/bagisto/bagisto) | Laravel-based eCommerce platform |
-| [Akaunting](https://github.com/akaunting/akaunting) | Open-source accounting software |
+| Project | Pull Requests |
+|---|---|
+| [Laravel](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Afajarwz) | [View my PRs](https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Afajarwz) |
+| [Cachet](https://github.com/CachetHQ/Cachet/pulls?q=is%3Apr+author%3Afajarwz) | [View my PRs](https://github.com/CachetHQ/Cachet/pulls?q=is%3Apr+author%3Afajarwz) |
+| [Bagisto](https://github.com/bagisto/bagisto/pulls?q=is%3Apr+author%3Afajarwz) | [View my PRs](https://github.com/bagisto/bagisto/pulls?q=is%3Apr+author%3Afajarwz) |
+| [Akaunting](https://github.com/akaunting/akaunting/pulls?q=is%3Apr+author%3Afajarwz) | [View my PRs](https://github.com/akaunting/akaunting/pulls?q=is%3Apr+author%3Afajarwz) |
 
 ---
 
@@ -115,11 +115,13 @@ I've contributed to several open-source projects, particularly within the PHP an
 
 I occasionally write about software engineering, Laravel, architecture, and things I've learned while building applications.
 
+<!-- BLOG-POST-LIST:START -->
 - [Git Mapper: Read Your Repo Like a Feed, Not a Terminal](https://fajarwz.com/blog/git-mapper-standalone-git-history-viewer/)
 - [Schedule Lenovo Conservation Mode on Windows](https://fajarwz.com/blog/schedule-lenovo-conservation-mode-on-windows/)
 - [Building an AI Agent in Laravel with the Laravel AI SDK](https://fajarwz.com/blog/building-an-ai-agent-in-laravel-with-the-laravel-ai-sdk/)
 - [Why I Stopped Putting Everything in Laravel Services](https://fajarwz.com/blog/why-i-stopped-putting-everything-in-laravel-services/)
 - [Companies Don't Hire You to Write Code](https://fajarwz.com/blog/companies-dont-hire-you-to-write-code/)
+<!-- BLOG-POST-LIST:END -->
 
 [Read more on my blog →](https://fajarwz.com/blog)
 
