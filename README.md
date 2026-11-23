@@ -120,7 +120,7 @@ I occasionally write about software engineering, Laravel, architecture, and thin
 - [Schedule Lenovo Conservation Mode on Windows](https://fajarwz.com/blog/schedule-lenovo-conservation-mode-on-windows/)
 - [Building an AI Agent in Laravel with the Laravel AI SDK](https://fajarwz.com/blog/building-an-ai-agent-in-laravel-with-the-laravel-ai-sdk/)
 - [Why I Stopped Putting Everything in Laravel Services](https://fajarwz.com/blog/why-i-stopped-putting-everything-in-laravel-services/)
-- [Companies Don't Hire You to Write Code](https://fajarwz.com/blog/companies-dont-hire-you-to-write-code/)
+- [Companies Don&#39;t Hire You to Write Code](https://fajarwz.com/blog/companies-dont-hire-you-to-write-code/)
 <!-- BLOG-POST-LIST:END -->
 
 [Read more on my blog →](https://fajarwz.com/blog)
